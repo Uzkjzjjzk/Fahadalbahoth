@@ -1,5 +1,6 @@
-{
+Naked {
     "recommendations": [
-        "ms-toolsai.jupyter-keymap"
+        "ms-toolsai.jupyter-keymap",
+        "varunkumar.google-input-tools"
     ]
-}
+}job 
